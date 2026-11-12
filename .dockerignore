@@ -1,0 +1,9 @@
+.git
+.env
+config.json
+state
+data
+instance
+logs
+node_modules
+__pycache__
